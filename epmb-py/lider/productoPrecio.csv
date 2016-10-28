@@ -12,8 +12,8 @@
 12	(Ref. 286056)	Selecta	Harina con Polvos de Hornear Bolsa 1 Kg	$840
 13	(Ref. 256443)	Lider	Almidon de Maiz Bolsa 400 g	$950
 14	(Ref. 488402)	Betty Crocker	Mezcla Muffins Chocolate Chips ...	$1.000
-15	(Ref. 311240)	Selecta	Queque Vainilla Caja 450 g	$1.000
-16	(Ref. 311479)	Selecta	Queque Marmol Caja 450 g	$1.000
+15	(Ref. 311479)	Selecta	Queque Marmol Caja 450 g	$1.000
+16	(Ref. 311240)	Selecta	Queque Vainilla Caja 450 g	$1.000
 17	(Ref. 252633)	Royal	Polvos de Hornear Caja 250 g	$1.050
 18	(Ref. 257242)	Lider	Almidon de Maiz Pote 500 g	$1.299
 19	(Ref. 481666)	Betty Crocker	Mezcla Brownie Dulce Doypack ...	$2.000
@@ -37,24 +37,24 @@
 37	(Ref. 306710)	Selecta	Harina Grain con Granos Enteros Bolsa 650 g	$710
 38	(Ref. 311208)	Selecta	Harina Especial Bake Bolsa 650 g	$710
 39	(Ref. 286781)	Carozzi	Nutrina Paquete 500 g	$720
-40	(Ref. 494435)	Cisne Imperial	Harina con Polvos de Hornear Bolsa ...	$750
+40	(Ref. 288077)	Oso	Harina Tostada Bolsa 500 g	$750
 41	(Ref. 494436)	Cisne Imperial	Harina sin Polvos de Hornear Bolsa 1 Kg	$750
-42	(Ref. 288077)	Oso	Harina Tostada Bolsa 500 g	$750
+42	(Ref. 494435)	Cisne Imperial	Harina con Polvos de Hornear Bolsa ...	$750
 43	(Ref. 481682)	Lider	Harina Integral Bolsa 1 Kg	$760
 44	(Ref. 257005)	Martini	Harina Tostada Bolsa 500 g	$840
 45	(Ref. 247750)	Molino Don Quijote	Pre-Mezcla para Sopaipillas Bolsa ...	$890
 46	(Ref. 247752)	Molino Don Quijote	Pre-Mezcla para Pan Amasado ...	$890
 47	(Ref. 247433)	Molino Don Quijote	Pre-Mezcla para Empanadas de ...	$890
-48	(Ref. 495203)	Molino Don Quijote	Pre-Mezcla para Empanadas Fritas ...	$890
-49	(Ref. 263360)	Oso	Trigo Mote Bolsa 500 g	$890
+48	(Ref. 263360)	Oso	Trigo Mote Bolsa 500 g	$890
+49	(Ref. 495203)	Molino Don Quijote	Pre-Mezcla para Empanadas Fritas ...	$890
 50	(Ref. 250283)	Jacinto	Chuno Jacinto Bolsa 500 g	$960
 51	(Ref. 471848)	Tucapel	Harina de Arroz Doypack 500 g	$960
 52	(Ref. 243655)	Fuente Natural	Harina de Maiz Doypack 500 g	$970
 53	(Ref. 546384)	Selecta	Harina Integral Alta en Fibra Bolsa 1 Kg	$970
 54	(Ref. 252626)	Saf Instant	Levadura Seca instantanea ...	$970
-55	(Ref. 406620)	Selecta	Mezcla Lista Cupcakes Caja 450 g	$1.000
-56	(Ref. 242971)	Selecta	Sopaipillas Selecta Caja 450 g	$1.000
-57	(Ref. 258900)	Selecta	Panqueques Selecta Caja 450 g	$1.000
+55	(Ref. 258900)	Selecta	Panqueques Selecta Caja 450 g	$1.000
+56	(Ref. 406620)	Selecta	Mezcla Lista Cupcakes Caja 450 g	$1.000
+57	(Ref. 242971)	Selecta	Sopaipillas Selecta Caja 450 g	$1.000
 58	(Ref. 236626)	Collico	Levadura Seca Bolsa 125 g	$1.050
 59	(Ref. 598411)	Dropa	Maizena Libre de Gluten Bolsa 100 g	$1.150
 60	(Ref. 264595)	Imperial	Polvo SN Golden Sun  12 g	$1.160
@@ -77,8 +77,8 @@
 77	(Ref. 236631)	Collico	Levadura Seca Bolsa 250 g	$2.160
 78	(Ref. 392055)	Donarepa	Harina de Maiz Bolsa 1 Kg	$2.450
 79	(Ref. 297319)	Epullen	Mezcla para Preparar Queques con Miel ...	$2.500
-80	(Ref. 488403)	Betty Crocker	Mezcla Torta Dulce de Chocolate Caja ...	$2.550
-81	(Ref. 493177)	Betty Crocker	Mezcla de Biscocho para Torta Sabor ...	$2.550
+80	(Ref. 493177)	Betty Crocker	Mezcla de Biscocho para Torta Sabor ...	$2.550
+81	(Ref. 488403)	Betty Crocker	Mezcla Torta Dulce de Chocolate Caja ...	$2.550
 82	(Ref. 256431)	Lider	Almidon de Maiz Caja 500 g	$2.570
 83	(Ref. 544693)	Duncan Hines	Mezcla para Brownie con ...	$2.691
 84	(Ref. 544694)	Duncan Hines	Mezcla para Brownie Caja 520 g	$2.691
